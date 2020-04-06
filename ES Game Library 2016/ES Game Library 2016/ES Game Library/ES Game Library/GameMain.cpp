@@ -43,6 +43,8 @@ int GameMain::Update()
 
 	b++;
 
+	test++;
+
 	return 0;
 }
 

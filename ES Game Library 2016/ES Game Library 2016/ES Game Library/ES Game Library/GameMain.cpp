@@ -39,6 +39,9 @@ int GameMain::Update()
 {
 	// TODO: Add your update logic here
 
+	int b;
+
+	b++;
 
 	return 0;
 }

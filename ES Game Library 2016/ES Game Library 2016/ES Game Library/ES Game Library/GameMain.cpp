@@ -13,6 +13,8 @@ bool GameMain::Initialize()
 	WindowTitle(_T("ES Game Library"));
 
 
+	int a = 1;
+
 	return true;
 }
 

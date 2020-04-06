@@ -57,7 +57,7 @@ private:
 private:
 	// •Ï”éŒ¾
 
-
+	int test2;
 	int test;
 	// ŠÖ”éŒ¾
 
